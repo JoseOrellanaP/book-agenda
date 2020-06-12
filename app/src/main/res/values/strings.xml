@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Book register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="genders">
+
+        <item>Action and Adventure</item>
+        <item>Autobiography</item>
+        <item>Biography</item>
+        <item>Book Review</item>
+        <item>Cookbook</item>
+        <item>Comic book</item>
+        <item>Dictionary</item>
+        <item>Drama</item>
+        <item>Encyclopedia</item>
+        <item>Fantasy</item>
+        <item>Guide</item>
+        <item>Health</item>
+        <item>Historical Fiction</item>
+        <item>History</item>
+        <item>Horror</item>
+        <item>Journal</item>
+        <item>Language</item>
+        <item>Mystery</item>
+        <item>Picture book</item>
+        <item>Poetry</item>
+        <item>Realization</item>
+        <item>Religion, spirituality and new age</item>
+        <item>Review</item>
+        <item>Research</item>
+        <item>Romance</item>
+        <item>Satire</item>
+        <item>Science</item>
+        <item>Science fiction</item>
+        <item>Self Help</item>
+        <item>Short Story</item>
+        <item>Suspense</item>
+        <item>Thriller</item>
+        <item>Travel</item>
+
+
+    </string-array>
+</resources>
